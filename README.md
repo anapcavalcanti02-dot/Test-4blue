@@ -25,7 +25,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve validar os campos obrigatórios e exibir mensagem solicitando o preenchimento de email e senha antes de prosseguir. |
 | **Severidade** | Crítico |
 | **Prioridade** | Alta |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug1] |
+| **Link do vídeo**  | [Vídeo][bug1] |
 
 #### Bug #2
 
@@ -38,7 +38,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve validar o campo Senha e exibir mensagem apropriada, por exemplo: "Por favor, informe sua senha" ou "O campo senha é obrigatório". |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug2] |
+| **Link do vídeo** | [Vídeo][bug2] |
 
 #### Bug #3
 
@@ -51,7 +51,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve exibir mensagem apropriada, por exemplo: "Senha incorreta" ou "Credenciais inválidas. Verifique seu email e senha." |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug3] |
+| **Link do vídeo**  | [Vídeo][bug3] |
 
 #### Bug #4
 
@@ -64,7 +64,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve validar o formato do email e exibir mensagem específica, por exemplo: "Por favor, insira um email válido" ou "Email inválido. Verifique o formato do endereço." |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug4] |
+| **Link do vídeo** | [Vídeo][bug4] |
 
 #### Bug #5
 
@@ -77,7 +77,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | Abaixo do campo Senha: exibir link "Esqueci minha senha" ou similar. As regras de criação de senha devem aparecer somente na tela de Criação de Conta. |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug5] |
+| **Link do vídeo**  | [Vídeo][bug5] |
 
 #### Bug #6
 
@@ -90,7 +90,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O formulário deve ser submetido ao pressionar Enter (comportamento padrão de formulários web), executando a mesma ação do clique no botão "Entrar". |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | — *(sem vídeo)* |
+| **Link do vídeo** | — *(sem vídeo)* |
 
 ---
 
@@ -107,7 +107,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | Campos alinhados na mesma linha (Nome completo | Telefone, Senha | Confirmar senha) e todos os text fields com largura padronizada. |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug7] |
+| **Link do vídeo** | [Vídeo][bug7] |
 
 #### Bug #8
 
@@ -120,7 +120,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve impedir o envio e exibir mensagens indicando quais campos obrigatórios não foram preenchidos. |
 | **Severidade** | Crítico |
 | **Prioridade** | Alta |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug8] |
+| **Link do vídeo** | [Vídeo][bug8] |
 
 #### Bug #9
 
@@ -133,7 +133,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O campo deve aceitar apenas números, aplicar máscara no formato (00) 00000-0000 ou similar e rejeitar ou ignorar caracteres não numéricos. |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug9] |
+| **Link do vídeo**  | [Vídeo][bug9] |
 
 #### Bug #10
 
@@ -146,7 +146,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve validar o formato do email e exibir mensagem de erro solicitando um endereço válido (com domínio completo). |
 | **Severidade** | Alto |
 | **Prioridade** | Alta |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug10] |
+| **Link do vídeo** | [Vídeo][bug10] |
 
 #### Bug #11
 
@@ -159,7 +159,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | O sistema deve validar: (a) mínimo 8 caracteres e 1 caractere especial; (b) os campos Senha e Confirmar senha devem ser iguais. Exibir mensagens de erro quando as regras não forem atendidas. |
 | **Severidade** | Alto |
 | **Prioridade** | Alta |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug11] |
+| **Link do vídeo**  | [Vídeo][bug11] |
 
 ---
 
@@ -176,7 +176,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | Se o usuário está autenticado: incluir botão "Acessar a plataforma" ou "Ir para o início". Se o fluxo exigir novo login: alterar a mensagem (ex: "Conta criada! Faça login para acessar") e incluir botão "Fazer login". |
 | **Severidade** | Médio |
 | **Prioridade** | Média |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug12] |
+| **Link do vídeo**  | [Vídeo][bug12] |
 
 #### Bug #13
 
@@ -189,7 +189,7 @@ Bugs organizados por tela.
 | **Resultado esperado** | Após login bem-sucedido: não exibir mensagem de erro; incluir opção para acessar a plataforma (conforme Bug #12). |
 | **Severidade** | Alto |
 | **Prioridade** | Alta |
-| **Link do vídeo** *(opcional)* | [Vídeo][bug13] |
+| **Link do vídeo**  | [Vídeo][bug13] |
 
 ---
 
