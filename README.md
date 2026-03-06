@@ -1,4 +1,4 @@
-# Relatório de Testes QA – Microssistema 4blue
+# Teste Técnico – QA Tester - Processo Seletivo – 4blue
 
 **Candidato:** Ana Paula Cavalcanti 
 **Data:** 06/03/2025  
