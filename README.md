@@ -319,19 +319,15 @@ O sistema aceita a criação de contas sem nenhum dado preenchido, gerando regis
 
 ---
 
-## Links dos vídeos
-
-Substitua as URLs abaixo pelos links reais dos seus vídeos. O Bug #6 não possui link.
-
-[bug1]: https://exemplo.com/video-bug1](https://drive.google.com/file/d/1OVgB2p9K6IoWygR35lbmeH2V6jJIBl_Q/view?usp=share_link
-[bug2]: https://exemplo.com/video-bug2](https://drive.google.com/file/d/1jznfIV02-XlNALNgX15hbe4Mmxsj9IkP/view?usp=share_link
-[bug3]: https://exemplo.com/video-bug3](https://drive.google.com/file/d/13YqH7yeRvf92H9hMO7vY93jXgtbsmQIx/view?usp=share_link
-[bug4]: https://exemplo.com/video-bug4](https://drive.google.com/file/d/1LgDaf4tqCR3nwPk4p7ESQdtT3luXHmDd/view?usp=share_link
-[bug5]: https://exemplo.com/video-bug5](https://drive.google.com/file/d/1S6rZOeZoub8s2FXDlR4eQLWb7kmgmPel/view?usp=share_link
-[bug7]: https://exemplo.com/video-bug7](https://drive.google.com/file/d/1uvk1P4yOJ6GJjKBwNQz-qBWjJwA3UOTw/view?usp=share_link
-[bug8]: https://exemplo.com/video-bug8](https://drive.google.com/file/d/1M2US_46AatzCnJZslVVMu6g_yitY4jlA/view?usp=share_link
-[bug9]: https://exemplo.com/video-bug9](https://drive.google.com/file/d/1nMcUNQ9hJtyi7S_KllsdUV78mqyt4c6M/view?usp=share_link
-[bug10]: https://exemplo.com/video-bug10](https://drive.google.com/file/d/1dCZVivgIorsGTo0MW-QnOsERqANX2EQ3/view?usp=share_link
-[bug11]: https://exemplo.com/video-bug11](https://drive.google.com/file/d/10lOLUrEC2D5DvBUKUYp-QTCs37jCBdTx/view?usp=share_link
-[bug12]: https://exemplo.com/video-bug12](https://drive.google.com/file/d/1JpETye3-nbEe_N53171-KaljVCReaQ6E/view?usp=share_link
-[bug13]: https://exemplo.com/video-bug13](https://drive.google.com/file/d/1-f_jAorNqa9vpozBhaRWUeON-1kf3FmT/view?usp=share_link
+[bug1]: https://drive.google.com/file/d/1OVgB2p9K6IoWygR35lbmeH2V6jJIBl_Q/view?usp=share_link
+[bug2]: https://drive.google.com/file/d/1jznfIV02-XlNALNgX15hbe4Mmxsj9IkP/view?usp=share_link
+[bug3]: https://drive.google.com/file/d/13YqH7yeRvf92H9hMO7vY93jXgtbsmQIx/view?usp=share_link
+[bug4]: https://drive.google.com/file/d/1LgDaf4tqCR3nwPk4p7ESQdtT3luXHmDd/view?usp=share_link
+[bug5]: https://drive.google.com/file/d/1S6rZOeZoub8s2FXDlR4eQLWb7kmgmPel/view?usp=share_link
+[bug7]: https://drive.google.com/file/d/1uvk1P4yOJ6GJjKBwNQz-qBWjJwA3UOTw/view?usp=share_link
+[bug8]: https://drive.google.com/file/d/1M2US_46AatzCnJZslVVMu6g_yitY4jlA/view?usp=share_link
+[bug9]: https://drive.google.com/file/d/1nMcUNQ9hJtyi7S_KllsdUV78mqyt4c6M/view?usp=share_link
+[bug10]: https://drive.google.com/file/d/1dCZVivgIorsGTo0MW-QnOsERqANX2EQ3/view?usp=share_link
+[bug11]: https://drive.google.com/file/d/10lOLUrEC2D5DvBUKUYp-QTCs37jCBdTx/view?usp=share_link
+[bug12]: https://drive.google.com/file/d/1JpETye3-nbEe_N53171-KaljVCReaQ6E/view?usp=share_link
+[bug13]: https://drive.google.com/file/d/1-f_jAorNqa9vpozBhaRWUeON-1kf3FmT/view?usp=share_link
