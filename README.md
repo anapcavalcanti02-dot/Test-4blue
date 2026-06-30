@@ -3,7 +3,7 @@
 Ana Paula Cavalcanti  
 **URL do sistema:** https://qa-play-sim.lovable.app/
 
----
+--
 
 ## 1. Bugs identificados
 
