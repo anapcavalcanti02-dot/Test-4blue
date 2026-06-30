@@ -1,7 +1,6 @@
 # Teste Técnico – QA Tester – 4blue
 
-**Candidato:** Ana Paula Cavalcanti 
-**Data:** 06/03/2025  
+Ana Paula Cavalcanti  
 **URL do sistema:** https://qa-play-sim.lovable.app/
 
 ---
